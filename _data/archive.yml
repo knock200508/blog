@@ -1,9 +1,9 @@
-- type: 按日期归档
+- type: dates
   title: 按日期归档
   url: /dates/
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- type: 按标签归档
+- type: tages
   title: 按标签归档
   url: /tags/
