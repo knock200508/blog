@@ -9,6 +9,7 @@ var gitalk = new Gitalk({
     repo: 'gitalk-comments', // 评论仓库名
     owner: 'knock200508',
     admin: ['knock200508'], // 管理人
+    proxy: 'https://cors-server-ecru.vercel.app/github_access_token', // GitHub oauth 请求到反向代理
     id: location.pathname, // 返回当前 URL 的路径部分作为id
     language:'zh-CN', // 语言
     distractionFreeMode: false  // 无干扰模式
