@@ -1,9 +1,7 @@
 ---
 layout: page
-title:测试office嵌入代码
+title: 测试office嵌入代码
 ---
-
-
 <html>
     <head>
         <meta charset="UTF-8">
