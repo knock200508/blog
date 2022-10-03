@@ -1,7 +1,7 @@
 # Setup
 title: knock博客
 description: 闹钟钟官方信息发布平台
-url: https://knock200508.github.io/blog/
+url: https://knock.eu.org/blog/
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -53,5 +53,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: knock200508
-  url: https://knock200508.github.io/blog/
+  url: https://knock.eu.org/blog/
   email: zxjzxj0010@126.com
