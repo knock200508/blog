@@ -1,6 +1,6 @@
 # Setup
 title: knock博客
-description: 闹钟钟官方信息发布平台
+description: 欢迎来到我的世界！！！
 url: https://knock.eu.org
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,12 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 
-logo: logo.png
+logo: /logo.png
+
 social:
-  name: Songzi Vong
+  name: knock
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - hhttps://github.com/knock200508/
+    
 
 lang: zh
 
